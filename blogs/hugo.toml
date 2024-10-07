@@ -1,0 +1,4 @@
+baseURL = 'https://cosmic-developers-union.github.io'
+languageCode = 'en-us'
+title = 'Cosmic Developers Union'
+theme = "ananke"
