@@ -58,6 +58,27 @@ EXAMPLE_TEXT = """
 
 
 class Markdown:
+    """
+    A class to handle Markdown file operations and conversion to HTML.
+    Attributes:
+        file (file object): The file object to write Markdown content to.
+    Methods:
+        __init__(file):
+            Initializes the Markdown object with a file object.
+        block(content, dedent=True):
+            Writes a block of content to the file, optionally dedenting it.
+        h1(content):
+            Writes a level 1 header to the file.
+        h2(content):
+            Writes a level 2 header to the file.
+        h3(content):
+            Writes a level 3 header to the file.
+        raw(content):
+            Writes raw content wrapped in raw tags to the file.
+        to_html(content: str):
+            Converts Markdown content to HTML.
+    """
+
     def __init__(self, file) -> None:
         self.file = file
 
