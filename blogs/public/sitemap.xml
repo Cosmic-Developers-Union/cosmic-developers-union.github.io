@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/background-color/</loc>
+    <loc>https://cosmic-developers-union.github.io/background-color/</loc>
   </url><url>
-    <loc>http://localhost:1313/readme/</loc>
+    <loc>https://cosmic-developers-union.github.io/readme/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://cosmic-developers-union.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://cosmic-developers-union.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://cosmic-developers-union.github.io/en/</loc>
+  </url><url>
+    <loc>https://cosmic-developers-union.github.io/en/cpye2hj3jkbznhbh9/</loc>
+  </url><url>
+    <loc>https://cosmic-developers-union.github.io/tags/</loc>
+  </url><url>
+    <loc>https://cosmic-developers-union.github.io/zh-hans/</loc>
+  </url><url>
+    <loc>https://cosmic-developers-union.github.io/zh-hans/cpye2hj3jkbznhbh9/</loc>
   </url>
 </urlset>

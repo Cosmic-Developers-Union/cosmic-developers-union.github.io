@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on Cosmic Developers Union</title>
+    <link>https://cosmic-developers-union.github.io/en/</link>
+    <description>Recent content in Ens on Cosmic Developers Union</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://cosmic-developers-union.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Special-Use IP Addresses and Ranges</title>
+      <link>https://cosmic-developers-union.github.io/en/cpye2hj3jkbznhbh9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cosmic-developers-union.github.io/en/cpye2hj3jkbznhbh9/</guid>
+      <description>&lt;h2 id=&#34;1-loopback-address&#34;&gt;1. Loopback Address&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;127.0.0.1 (IPv4)&lt;/li&gt;&#xA;&lt;li&gt;::1 (IPv6)&lt;/li&gt;&#xA;&lt;li&gt;localhost Note: Used for internal device communication, always points to itself&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-private-network-addresses&#34;&gt;2. Private Network Addresses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;10.0.0.0/8&lt;/li&gt;&#xA;&lt;li&gt;172.16.0.0/12&lt;/li&gt;&#xA;&lt;li&gt;192.168.0.0/16## 4. Unique Local Addresses (ULA)&lt;/li&gt;&#xA;&lt;li&gt;fc00::/7&lt;/li&gt;&#xA;&lt;li&gt;fc00::/8&lt;/li&gt;&#xA;&lt;li&gt;fd00::/8## 5. Reserved Addresses&lt;/li&gt;&#xA;&lt;li&gt;0.0.0.0/8&lt;/li&gt;&#xA;&lt;li&gt;240.0.0.0/4 Comment: Reserved for special uses, not assigned to any network.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;6-shared-address-space&#34;&gt;6. Shared Address Space&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;100.64.0.0/10 Comment: Used for Carrier-Grade NAT (CGN).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;7-multicast-addresses&#34;&gt;7. Multicast Addresses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;224.0.0.0/4&lt;br&gt;&#xA;Comment: Used for one-to-many communication&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;8-miscellaneous&#34;&gt;8. Miscellaneous&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;*.local&lt;br&gt;&#xA;Comment: Used for multicast DNS (mDNS) services&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;These special addresses and networks are typically used for specific network functions and are not routed on the public internet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
